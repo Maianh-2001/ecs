@@ -1,0 +1,45 @@
+2022-12-26T08:43:34+00:00 ERROR Incorrect response from Mailchimp API with: stdClass Object
+(
+    [code] => mailchimp-error
+    [message] => A MailChimp error has occurred.
+    [data] => stdClass Object
+        (
+            [type] => https://mailchimp.com/developer/marketing/docs/errors/
+            [title] => Invalid Resource
+            [status] => 400
+            [detail] => kiky13062001@gmaill.com looks fake or invalid, please enter a real email address.
+            [instance] => 0522e7bb-cb4a-64e6-4467-de81518f94eb
+        )
+
+)
+
+2022-12-26T09:54:31+00:00 ERROR Incorrect response from Mailchimp API with: stdClass Object
+(
+    [code] => mailchimp-error
+    [message] => A MailChimp error has occurred.
+    [data] => stdClass Object
+        (
+            [type] => https://mailchimp.com/developer/marketing/docs/errors/
+            [title] => Invalid Resource
+            [status] => 400
+            [detail] => kiky13062001@gmaill.com looks fake or invalid, please enter a real email address.
+            [instance] => fa1ec328-3f12-8a32-a0b6-a444d5f190d0
+        )
+
+)
+
+2022-12-26T15:44:15+00:00 ERROR Incorrect response from Mailchimp API with: stdClass Object
+(
+    [code] => mailchimp-error
+    [message] => A MailChimp error has occurred.
+    [data] => stdClass Object
+        (
+            [type] => https://mailchimp.com/developer/marketing/docs/errors/
+            [title] => Invalid Resource
+            [status] => 400
+            [detail] => kiky13062001@gmaill.com looks fake or invalid, please enter a real email address.
+            [instance] => 9fdff083-0d5f-963d-eec2-6a0fedefb04c
+        )
+
+)
+

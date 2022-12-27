@@ -1,0 +1,15 @@
+Dec 26 2022 10:45:46
+{"Number":2,"Message":"rmdir(C:\\xampp\\htdocs\\ecs\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\d7loekf8w12i): Directory not empty","File":"C:\\xampp\\htdocs\\ecs\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\filesystem\\class-ai1wm-directory.php","Line":72}
+
+Dec 26 2022 10:45:48
+{"Number":2,"Message":"unlink(C:\\xampp\\htdocs\\ecs\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\d7loekf8w12i\\plugins.list): Permission denied","File":"C:\\xampp\\htdocs\\ecs\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\filesystem\\class-ai1wm-directory.php","Line":66}
+
+Dec 26 2022 10:45:48
+{"Number":2,"Message":"rmdir(C:\\xampp\\htdocs\\ecs\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\d7loekf8w12i): Directory not empty","File":"C:\\xampp\\htdocs\\ecs\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\filesystem\\class-ai1wm-directory.php","Line":72}
+
+Dec 26 2022 10:45:49
+{"Number":2,"Message":"unlink(C:\\xampp\\htdocs\\ecs\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\d7loekf8w12i\\plugins.list): Permission denied","File":"C:\\xampp\\htdocs\\ecs\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\filesystem\\class-ai1wm-directory.php","Line":66}
+
+Dec 26 2022 10:45:49
+{"Number":2,"Message":"rmdir(C:\\xampp\\htdocs\\ecs\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\d7loekf8w12i): Directory not empty","File":"C:\\xampp\\htdocs\\ecs\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\filesystem\\class-ai1wm-directory.php","Line":72}
+
